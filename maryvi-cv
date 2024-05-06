@@ -9,10 +9,10 @@ skin: "berry"
 basic_info:
 
     # Your full name
-    first_name: Maryvi
-    last_name: Camacho
+    first_name: Sabona
+    last_name: Rexwinkel
     # Define yourself in 4-5 words
-    motto: I like create new things. 
+    motto: Where there is a will there is a way. 
     
     # focus
     focus: Learning software development.
@@ -31,15 +31,14 @@ basic_info:
     avatar: https://randomuser.me/api/portraits/women/24.jpg
 
     # Contact Information
-    email: DarioQuintanilla2@gmail.com #optional
-    phone: 954-756-1036 #optional
-    website: DarioQuintanilla.com #optional
-    linkedin: https://www.linkedin.com/in/dario-quintanilla-a60922182/ #optional
+    email: hello.bon.rex@gmail.com
+    phone: 070-6456-6900 
+    linkedin: https://www.linkedin.com/in/hellobonrex/
     
     #
     # ******** IMPORTANT *******
     # This github username will be use to generate your public profile URL like this: http://sep.breatheco.de/sharu725
-    github: DarioQuintanilla2109
+    github: sabonrex
     
     twitter:  #optional
     stack-overflow: # Number/Username, e.g. 123456/alandoe
@@ -47,11 +46,16 @@ basic_info:
     # languages you speak, levels inculde: Native, Professional
     languages:
       - idiom: English
-        level: Native
+        level: Profession
 
       - idiom: Spanish
-        level: Professional
+        level: Fluent
 
+      - idiom: Dutch
+        level: Fluent
+
+      - idiom: Catalan
+        level: Native
     
 
     # Interests or hobies
